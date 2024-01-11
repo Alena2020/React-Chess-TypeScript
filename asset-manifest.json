@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Chess-TypeScript/static/css/main.b3f45e22.css",
+    "main.js": "/React-Chess-TypeScript/static/js/main.1177a1bb.js",
+    "index.html": "/React-Chess-TypeScript/index.html",
+    "main.b3f45e22.css.map": "/React-Chess-TypeScript/static/css/main.b3f45e22.css.map",
+    "main.1177a1bb.js.map": "/React-Chess-TypeScript/static/js/main.1177a1bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3f45e22.css",
+    "static/js/main.1177a1bb.js"
+  ]
+}
