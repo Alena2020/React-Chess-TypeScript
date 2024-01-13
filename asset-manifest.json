@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/React-Chess-TypeScript/static/css/main.b3f45e22.css",
-    "main.js": "/React-Chess-TypeScript/static/js/main.1177a1bb.js",
+    "main.css": "/React-Chess-TypeScript/static/css/main.0f08a3d7.css",
+    "main.js": "/React-Chess-TypeScript/static/js/main.f330fa44.js",
+    "static/media/white-knight.png": "/React-Chess-TypeScript/static/media/white-knight.e9752afca6b565c720e8.png",
+    "static/media/black-knight.png": "/React-Chess-TypeScript/static/media/black-knight.7c1373e2ecf7ceca88ef.png",
+    "static/media/white-bishop.png": "/React-Chess-TypeScript/static/media/white-bishop.d6958db2c7ce6c353953.png",
+    "static/media/white-king.png": "/React-Chess-TypeScript/static/media/white-king.eb09b028077b5df06166.png",
+    "static/media/white-rook.png": "/React-Chess-TypeScript/static/media/white-rook.3ba621ec09c68ccbb56d.png",
+    "static/media/black-king.png": "/React-Chess-TypeScript/static/media/black-king.cfb29ffe68161f695772.png",
+    "static/media/black-bishop.png": "/React-Chess-TypeScript/static/media/black-bishop.15e7ca711793deaae820.png",
+    "static/media/black-pawn.png": "/React-Chess-TypeScript/static/media/black-pawn.c086899e5dbd747357b7.png",
+    "static/media/white-pawn.png": "/React-Chess-TypeScript/static/media/white-pawn.0219e70633f57f43bec8.png",
+    "static/media/black-rook.png": "/React-Chess-TypeScript/static/media/black-rook.e0aa242383760b41da27.png",
+    "static/media/white-queen.png": "/React-Chess-TypeScript/static/media/white-queen.5700b06eee3c2666f4bf.png",
+    "static/media/black-queen.png": "/React-Chess-TypeScript/static/media/black-queen.ae436df0e30b414628d1.png",
     "index.html": "/React-Chess-TypeScript/index.html",
-    "main.b3f45e22.css.map": "/React-Chess-TypeScript/static/css/main.b3f45e22.css.map",
-    "main.1177a1bb.js.map": "/React-Chess-TypeScript/static/js/main.1177a1bb.js.map"
+    "main.0f08a3d7.css.map": "/React-Chess-TypeScript/static/css/main.0f08a3d7.css.map",
+    "main.f330fa44.js.map": "/React-Chess-TypeScript/static/js/main.f330fa44.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3f45e22.css",
-    "static/js/main.1177a1bb.js"
+    "static/css/main.0f08a3d7.css",
+    "static/js/main.f330fa44.js"
   ]
 }

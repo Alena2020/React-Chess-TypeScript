@@ -1,0 +1,2 @@
+*{margin:0;padding:0}.app{align-items:center;background:#333;height:100vh;justify-content:center;width:100vw}.app,.board{display:flex}.board{box-shadow:0 20px 50px #000c;flex-wrap:wrap;height:512px;width:512px}.cell{align-items:center;box-shadow:inset 5px 5px 5px #9370db;display:flex;height:64px;justify-content:center;width:64px}.cell img{height:48px;position:relative;width:48px}.black{background-color:#0ff}.white{background-color:#f0f}
+/*# sourceMappingURL=main.0f08a3d7.css.map*/
