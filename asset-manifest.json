@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Chess-TypeScript/static/css/main.67a7592f.css",
-    "main.js": "/React-Chess-TypeScript/static/js/main.46fc4c7c.js",
+    "main.css": "/React-Chess-TypeScript/static/css/main.14a6c224.css",
+    "main.js": "/React-Chess-TypeScript/static/js/main.14445c33.js",
     "static/media/white-knight.png": "/React-Chess-TypeScript/static/media/white-knight.e9752afca6b565c720e8.png",
     "static/media/black-knight.png": "/React-Chess-TypeScript/static/media/black-knight.7c1373e2ecf7ceca88ef.png",
     "static/media/white-bishop.png": "/React-Chess-TypeScript/static/media/white-bishop.d6958db2c7ce6c353953.png",
@@ -15,11 +15,11 @@
     "static/media/white-queen.png": "/React-Chess-TypeScript/static/media/white-queen.5700b06eee3c2666f4bf.png",
     "static/media/black-queen.png": "/React-Chess-TypeScript/static/media/black-queen.ae436df0e30b414628d1.png",
     "index.html": "/React-Chess-TypeScript/index.html",
-    "main.67a7592f.css.map": "/React-Chess-TypeScript/static/css/main.67a7592f.css.map",
-    "main.46fc4c7c.js.map": "/React-Chess-TypeScript/static/js/main.46fc4c7c.js.map"
+    "main.14a6c224.css.map": "/React-Chess-TypeScript/static/css/main.14a6c224.css.map",
+    "main.14445c33.js.map": "/React-Chess-TypeScript/static/js/main.14445c33.js.map"
   },
   "entrypoints": [
-    "static/css/main.67a7592f.css",
-    "static/js/main.46fc4c7c.js"
+    "static/css/main.14a6c224.css",
+    "static/js/main.14445c33.js"
   ]
 }
