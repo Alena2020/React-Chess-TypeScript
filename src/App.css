@@ -62,3 +62,45 @@
   box-shadow: inset 1px 2px 2px whitesmoke;
 }
 
+.lost {
+  height: calc(50vh - 60px);
+  padding: 30px;
+  margin-left: 50px;
+  background-color: midnightblue;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, .8);
+}
+
+.lost img {
+  height: 20px;
+  width: 20px;
+}
+
+.menuTimer {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+  background-color: midnightblue;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, .8);
+}
+
+.menuTimer button {
+  margin-bottom: 20px;
+  width: 120px;
+  height: 30px;
+  font-size: 14px;
+  background: none;
+  border: 1px solid whitesmoke;
+  color: mediumorchid;
+  border-radius: 15px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, .8);
+}
+
+.menuTimer button:hover {
+  background: mediumorchid;
+  color: mediumblue;
+  cursor: pointer;
+}
