@@ -16,6 +16,22 @@ export class King extends Figure {
     if (!super.canMove(target)) {
       return false;      
     }
-    return true;
+    const moves = [
+        [-1, -1],
+        [0, -1],
+        [1, -1],
+        [-1, 0],
+        [1, 0],
+        [-1, 1],
+        [0, +1],
+        [1, 1],
+    ];
+
+    for (let [x, y] of moves) {
+      if (target.x === this.cell.x - x && target.y === this.cell.y - y) {
+        return true;
+      }
+    }
+    return false; 
   }
 }
