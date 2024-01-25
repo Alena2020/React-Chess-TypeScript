@@ -1,3 +1,21 @@
+# React-Chess-TypeScript
+
+## A project based on YouTube video tutorials from a [Ulbi TV](https://www.youtube.com/watch?v=mUvYGUYMvKo&list=PLNvKCElPFemD4W8jxxO8rVo6bVBFiBLbd&index=14).
+
+## Technologies:
+
+#### - HTML
+
+#### - CSS
+
+#### - TypeScript
+
+#### - React
+
+## Demo: https://alena2020.github.io/React-Chess-TypeScript/
+
+## ♟
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
